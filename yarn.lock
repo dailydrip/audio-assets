@@ -2903,6 +2903,14 @@ react-deep-force-update@^1.0.0:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/react-deep-force-update/-/react-deep-force-update-1.0.1.tgz#f911b5be1d2a6fe387507dd6e9a767aa2924b4c7"
 
+react-native-audio@^3.2.1:
+  version "3.2.1"
+  resolved "https://registry.yarnpkg.com/react-native-audio/-/react-native-audio-3.2.1.tgz#13b518f7c26f806ae8df0d0123a2115827ce78fa"
+
+react-native-sound@^0.9.1:
+  version "0.9.1"
+  resolved "https://registry.yarnpkg.com/react-native-sound/-/react-native-sound-0.9.1.tgz#b14c1bc89ab3ce07655c152a3752355e389dc6e1"
+
 react-native@0.42.0:
   version "0.42.0"
   resolved "https://registry.yarnpkg.com/react-native/-/react-native-0.42.0.tgz#59b501603a63232598fff653a36307a26010402e"
